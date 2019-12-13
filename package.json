@@ -1,0 +1,28 @@
+{
+  "name": "nodeexample",
+  "version": "1.0.0",
+  "description": "Ejemplo de uso de Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valerdi0/NodeExample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ejemplo"
+  ],
+  "author": "Valerdi0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valerdi0/NodeExample/issues"
+  },
+  "homepage": "https://github.com/Valerdi0/NodeExample#readme"
+}
